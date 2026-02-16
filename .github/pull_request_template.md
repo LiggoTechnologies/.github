@@ -34,5 +34,3 @@
 - Review the files and changes included in the Pull Request
 - Changes follow code nomenclature
 - Tests have been executed and are passing
-
-@LiggoTechnologies/liggo-developers
